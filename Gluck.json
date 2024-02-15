@@ -7,9 +7,9 @@
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
       "stair": null,
-      "roomsNumber": null,
-      "bedroomsNumber": null,
-      "bathroomNumber": null,
+      "roomsNumber": 5,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 3,
       "availableSurface": 23.249,
       "price": 1200000,
       "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
@@ -21,13 +21,13 @@
      {
       "id": 3462,
       "name": "10.1",
-      "floor": "11",
+      "floor": "10",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
       "stair": null,
-      "roomsNumber": null,
-      "bedroomsNumber": null,
-      "bathroomNumber": null,
+      "roomsNumber": 5,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 4,
       "availableSurface": 23.249,
       "price": 1200000,
       "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
@@ -37,27 +37,9 @@
       "favorite": false
     },
     {
-      "id": 3463,
-      "name": "9.1",
-      "floor": "9",
-      "mainUnitUse": "living",
-      "residentialUseType": "apartment",
-      "stair": "A",
-      "roomsNumber": 3,
-      "bedroomsNumber": 2,
-      "bathroomNumber": 2,
-      "availableSurface": 127,
-      "price": 869000,
-      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
-      "propertyName": "Via Gluck n. 16/18 Milano",
-      "availabilityStatus": "available",
-      "laPositioningType": "West",
-      "favorite": false
-    },
-    {
       "id": 3465,
       "name": "9.1",
-      "floor": "1",
+      "floor": "9",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
       "stair": "A",
@@ -72,6 +54,157 @@
       "laPositioningType": "East",
       "favorite": false
     },
+    {
+      "id": 3462,
+      "name": "9.2",
+      "floor": "9",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
+      "stair": null,
+      "roomsNumber": 4,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 2,
+      "availableSurface": 23.249,
+      "price": 1200000,
+      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
+      "laPositioningType": "",
+      "favorite": false
+    },
+    {
+      "id": 3462,
+      "name": "8.4",
+      "floor": "8",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
+      "stair": null,
+      "roomsNumber": 4,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 2,
+      "availableSurface": 23.249,
+      "price": 1200000,
+      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
+      "laPositioningType": "",
+      "favorite": false
+    },
+        {
+      "id": 3462,
+      "name": "8.3",
+      "floor": "8",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
+      "stair": null,
+      "roomsNumber": 4,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 2,
+      "availableSurface": 23.249,
+      "price": 1200000,
+      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
+      "laPositioningType": "",
+      "favorite": false
+    },
+
+    {
+      "id": 3462,
+      "name": "8.2",
+      "floor": "8",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
+      "stair": null,
+      "roomsNumber": 4,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 2,
+      "availableSurface": 23.249,
+      "price": 1200000,
+      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
+      "laPositioningType": "",
+      "favorite": false
+    },
+
+    {
+      "id": 3462,
+      "name": "8.1",
+      "floor": "8",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
+      "stair": null,
+      "roomsNumber": 4,
+      "bedroomsNumber": 3,
+      "bathroomNumber": 2,
+      "availableSurface": 23.249,
+      "price": 1200000,
+      "floorplanUrl": "https://datahub.staging.dils.cloud/assets/c1c1f440-4ac3-4a50-98ef-cf7c96d4cfb7?",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
+      "laPositioningType": "",
+      "favorite": false
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "id": 3466,
       "name": "BOX3",
