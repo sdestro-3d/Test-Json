@@ -2,25 +2,25 @@
   "units": [
     {
       "id": 3462,
-      "name": "BOX1",
-      "floor": "-1",
-      "mainUnitUse": "parking",
-      "residentialUseType": "box",
+      "name": "11.1",
+      "floor": "11",
+      "mainUnitUse": "living",
+      "residentialUseType": "apartment",
       "stair": null,
       "roomsNumber": null,
       "bedroomsNumber": null,
       "bathroomNumber": null,
       "availableSurface": 23.249,
-      "price": 77000,
+      "price": 1200000,
       "floorplanUrl": "",
-      "propertyName": "Via Balilla n. 16/18 Milano",
-      "availabilityStatus": "deal-closed",
+      "propertyName": "Via Gluck n. 16/18 Milano",
+      "availabilityStatus": "available",
       "laPositioningType": "",
       "favorite": false
     },
     {
       "id": 3463,
-      "name": "2.1",
+      "name": "A11",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -56,7 +56,7 @@
     },
     {
       "id": 3465,
-      "name": "2.2",
+      "name": "A12",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -92,7 +92,7 @@
     },
     {
       "id": 3467,
-      "name": "2.3",
+      "name": "B11",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -128,7 +128,7 @@
     },
     {
       "id": 3469,
-      "name": "2.4",
+      "name": "B12",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -164,7 +164,7 @@
     },
     {
       "id": 3471,
-      "name": "2.5",
+      "name": "B13",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -200,7 +200,7 @@
     },
     {
       "id": 3473,
-      "name": "2.6",
+      "name": "B14",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -236,7 +236,7 @@
     },
     {
       "id": 3475,
-      "name": "3.1",
+      "name": "C11",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -290,7 +290,7 @@
     },
     {
       "id": 3478,
-      "name": "3.2",
+      "name": "C12",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -326,7 +326,7 @@
     },
     {
       "id": 3480,
-      "name": "3.3",
+      "name": "C13",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -362,7 +362,7 @@
     },
     {
       "id": 3482,
-      "name": "3.4",
+      "name": "C14",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -398,7 +398,7 @@
     },
     {
       "id": 3484,
-      "name": "3.5",
+      "name": "D11",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -434,7 +434,7 @@
     },
     {
       "id": 3486,
-      "name": "3.6",
+      "name": "D12",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -470,7 +470,7 @@
     },
     {
       "id": 3488,
-      "name": "4.1",
+      "name": "D13",
       "floor": "1",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -524,7 +524,7 @@
     },
     {
       "id": 3491,
-      "name": "4.2",
+      "name": "A21",
       "floor": "2",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -560,7 +560,7 @@
     },
     {
       "id": 3493,
-      "name": "4.3",
+      "name": "A22",
       "floor": "2",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -596,7 +596,7 @@
     },
     {
       "id": 3495,
-      "name": "4.4",
+      "name": "A23",
       "floor": "2",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -632,7 +632,7 @@
     },
     {
       "id": 3497,
-      "name": "4.5",
+      "name": "A24",
       "floor": "2",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -686,7 +686,7 @@
     },
     {
       "id": 3500,
-      "name": "4.6",
+      "name": "B21",
       "floor": "2",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2054,7 +2054,7 @@
     },
     {
       "id": 3576,
-      "name": "5.1",
+      "name": "B51",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2108,7 +2108,7 @@
     },
     {
       "id": 3579,
-      "name": "5.2",
+      "name": "B52",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2144,7 +2144,7 @@
     },
     {
       "id": 3581,
-      "name": "5.3",
+      "name": "B53",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": 3582,
-      "name": "5.4",
+      "name": "C51",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2180,7 +2180,7 @@
     },
     {
       "id": 3583,
-      "name": "5.5",
+      "name": "C52",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2198,7 +2198,7 @@
     },
     {
       "id": 3584,
-      "name": "6.1",
+      "name": "A61",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2216,7 +2216,7 @@
     },
     {
       "id": 3585,
-      "name": "6.2",
+      "name": "B61",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2234,7 +2234,7 @@
     },
     {
       "id": 3586,
-      "name": "6.3",
+      "name": "B62",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2252,7 +2252,7 @@
     },
     {
       "id": 3587,
-      "name": "6.4",
+      "name": "C61",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
