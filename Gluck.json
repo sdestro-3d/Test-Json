@@ -2054,7 +2054,7 @@
     },
     {
       "id": 3576,
-      "name": "B51",
+      "name": "5.1",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2108,7 +2108,7 @@
     },
     {
       "id": 3579,
-      "name": "B52",
+      "name": "5.2",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2144,7 +2144,7 @@
     },
     {
       "id": 3581,
-      "name": "B53",
+      "name": "5.3",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": 3582,
-      "name": "C51",
+      "name": "5.4",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2180,7 +2180,7 @@
     },
     {
       "id": 3583,
-      "name": "C52",
+      "name": "5.5",
       "floor": "5",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2198,7 +2198,7 @@
     },
     {
       "id": 3584,
-      "name": "A61",
+      "name": "6.1",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2216,7 +2216,7 @@
     },
     {
       "id": 3585,
-      "name": "B61",
+      "name": "6.2",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2234,7 +2234,7 @@
     },
     {
       "id": 3586,
-      "name": "B62",
+      "name": "6.3",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
@@ -2252,7 +2252,7 @@
     },
     {
       "id": 3587,
-      "name": "C61",
+      "name": "6.4",
       "floor": "6",
       "mainUnitUse": "living",
       "residentialUseType": "apartment",
