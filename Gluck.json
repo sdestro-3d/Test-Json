@@ -3,7 +3,7 @@
 {
    "availability":{
       "availabilityStatus":{
-         "code":"available",
+         "code":"under-negotiation",
          "color":"#0BB783",
          "id":1
       },
